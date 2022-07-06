@@ -30,4 +30,7 @@ A python application build with Azure Vision Services to filter Images based on 
 > - You can hit refresh button after entering more images in folder (You have selected)
 > - Again It will take some time and restarts the program
 
+## Results
+
+
 

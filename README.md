@@ -1,5 +1,5 @@
 # GalleryAI
-A python application build with Azure Vision Services to filter Images based on it's content same as Google Photos. 
+A python application build with Azure Vision Services to filter Images based on it's content same as Google Photos [:camera:[DEMO](https://github.com/riddhesh-jangid/GalleryAI#results)] 
 
 ## Setup & Configuration
 

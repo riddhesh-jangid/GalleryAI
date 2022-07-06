@@ -33,4 +33,16 @@ A python application build with Azure Vision Services to filter Images based on 
 ## Results
 
 
+https://user-images.githubusercontent.com/38961553/177589895-ae6e2a7f-6372-4fac-be6b-c1a38cf52542.mp4
+
+
+
+https://user-images.githubusercontent.com/38961553/177590004-716354ba-8bcb-437c-8ce6-e4f299783839.mp4
+
+
+
+https://user-images.githubusercontent.com/38961553/177590063-30d3a68f-7855-4dfa-b636-d972bc892b46.mp4
+
+
+
 
